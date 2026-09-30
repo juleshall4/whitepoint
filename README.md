@@ -12,7 +12,7 @@ Even with the brightness dimmed, bright text can still feel harsh, especially at
 
 - **Adjustable intensity.** Drag the slider to choose how much to dim the screen.
 - **Keyboard shortcut.** Turn White Point on or off from any app.
-- **Schedules.** Turn it on and off at set times, at sunset and sunrise, or along with Night Shift. Sunrise and sunset are worked out on your Mac, and your location never leaves it.
+- **Schedules.** Enable and disable at set times, at sunset and sunrise, or along with Night Shift. Sunrise and sunset are worked out on your Mac, and your location never leaves it.
 - **Launch at login.** Start White Point automatically so your schedule keeps running.
 
 ## Requirements
