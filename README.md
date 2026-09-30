@@ -1,6 +1,6 @@
 # White Point
 
-A lightweight macOS menu bar app that dims whites in your main display evenly, inspired by the 'Reduce White Point' setting on iPhone and iPad.
+A lightweight macOS menu bar utility that dims whites in your main display evenly, inspired by the 'Reduce White Point' setting on iPhone and iPad.
 
 Adjust the intensity, choose a keyboard shortcut, and schedule it with fixed times, sunrise/sunset, or Night Shift. Optional launch at login.
 
